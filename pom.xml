@@ -12,7 +12,7 @@
 	<groupId>org.fantasizer</groupId>
 	<artifactId>fantasizer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fantasizer</name>
+	<name>openapi</name>
 	<description>a springboot project which implement a simple OPENAPI and some rule engines and business flow  engines.</description>
 
 	<properties>
